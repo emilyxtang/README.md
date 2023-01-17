@@ -3,4 +3,4 @@
 
 - 👩🏻‍💻 I am currently completing a Cybercrime Investigator Assistant Co-op, where I am learning Elasticsearch.
 - 💬 My favourite languages include Java, C, and Python.
-- 📨 Feel free to connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Emily%20Tang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilyxtang/)
+- 📨 Feel free to connect with me on LinkedIn:  [![Linkedin Badge](https://img.shields.io/badge/-Emily%20Tang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilyxtang/)
